@@ -1,0 +1,66 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Container styling */
+.login-container {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+
+/* Title styling */
+.login-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Input styling */
+.login-input {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+/* Button styling */
+.login-button {
+  width: 92%;
+  padding: 7px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+/* Button hover effect */
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+/* Container styling */
+.profile-container {
+  width: 300px;
+  margin: 20px auto;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Welcome message styling */
+.profile-welcome {
+  font-size: 24px;
+  text-align: center;
+}
